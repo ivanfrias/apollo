@@ -1,0 +1,75 @@
+{ "data": [
+	{ 
+		"id" : "0", 
+		"title" : "O que farei com este livro", 
+		"author" : "( de José Saramago )", 
+		"description" : "O regresso de Luís de Camões a Portugal e a luta que tem de travar para publicar Os Lusíadas. Mais que fazer jus ao poeta, a peça mostra o século XVI e tudo o que estava em cena, à época; a megalomania de um rei imaturo; a complexidade e a tensão do jogo político e social que se travava em Portugal; a \"anunciada\" perda da independência nacional. Neste contexto, a peça remete-nos para o papel do artista na sociedade: quem dele se serve, quem favoreceu ou contrariou a publicação da sua obra e a quem esta pode beneficiar. É, pois, uma reflexão sobre jogos de poder. É pois, uma reflexão sobre a liberdade. É pois, uma reflexão, sobre a vida."
+	},
+	{ 
+		"id" : "1", 
+		"title" : "Na Terra dos Sonhos", 
+		"author" : "( de  António Clemente; António Craveiro, Luís Tomás; João Mourão)", 
+		"description" : "A história do Servente Hipólito que decide destruir o edifício do teatro onde trabalham Chícharo e Pé Carriço, para construir um restaurante. Para o Servente, os \"teatros estão sempre vazios, não alimentam a barriga nem os bolsos de ninguém ao contrário, do que se passa com os restaurantes, que estão sempre cheios!\". Chícharo e Pé Carriço convencem o Servente Hipólito a entrar no mundo do teatro, bastando para isso que utilize a imaginação."
+	},
+	{ 
+		"id" : "2", 
+		"title" : "Queres Ser Ministro?", 
+		"author" : "( adaptação de Dora Conde a partir do texto “Queres ser ministro”, de Helder Costa )", 
+		"description" : "Num bairro de Lisboa, existe uma equipa de 4 amigos: O Bonitão, que arrasta o sonho de ser um grande artista, o Careca que quer ser escritor, o Triste, um cinéfilo à moda antiga e a mulher do Triste, que é costureira e fabrica etiquetas falsas para roupa interior feminina. Um dia sai-lhes a sorte grande, o maior prémio de sempre. Que fazer com tanto dinheiro? Depois de várias peripécias e investimentos falhados, decidem que o melhor investimento é preparar alguém para ser ministro…."
+	},
+	{ 
+		"id" : "3", 
+		"title" : "Leandro, Rei de Helíria", 
+		"author" : "( de Alice Vieira (peça estreada no dia 5 de maio de 2005) )", 
+		"description" : "«Quero-vos como a comida quer ao sal», assim definiu a princesa o seu amor pelo pai, numa história da tradição popular. É essa história que aqui se conta, adaptada  ao teatro por Alice Vieira, autora portuguesa. Uma peça onde se fala de amor, de ingratidão e do que acontece a um rei quando a coroa lhe sai da cabeça."
+	},
+	{ 
+		"id" : "4", 
+		"title" : "Jantar de Idiotas", 
+		"author" : "( adaptação de Dora Conde a partir de Francis Weber)", 
+		"description" : "Imagine que é convidado para um jantar, por alguém que não conhece, e sem saber está afinal convidado para fazer de idiota perante várias pessoas. Imagine que o anfitrião do jantar é uma pessoa que você julga importante para os seus planos. E imagine que, aos poucos, você se pode tornar numa pessoa útil, necessária. Um editor de sucesso e os seus amigos excêntricos divertem-se a organizar semanalmente um jantar para o qual convidam as pessoas mais “idiotas” que encontram. Numa noite porém, o editor não consegue ir ao jantar e fica sozinho em casa com o sei “idiota” num serão que se transforma num divertido pesadelo."
+	},
+	{ 
+		"id" : "5", 
+		"title" : "O Gato", 
+		"author" : "( de Henrique Santana )", 
+		"description" : "O querer, a força interior que depositamos nos nossos pensamentos, o otimismo perante as situações, é o tema desta peça. Muito mais que uma comédia em que um gato é transformado em ser humano, a peça é sobretudo, otimista e positiva."
+	},
+	{ 
+		"id" : "6", 
+		"title" : "O cliente nunca tem razão/vende-se coração", 
+		"author" : "(de Sérgio Ribeiro)", 
+		"description" : "Estes dois textos são a adaptação de dois contarelos lidos não se sabe onde, quando ou de quem. O adaptador achou-lhes muita graça porque pegavam na realidade que vivemos, em situações, e as transformam em coisas contadas. Porque não contá-las em teatro? Foi o que tentou fazer, adaptando-as.\"Vende-se coração\" é a resposta a um anúncio em que se joga com a ambiguidade das palavras e dos sentimentos, e será que os corações, mesmo de porcelana ou fancaria, podem estar à venda, ou será que tudo o pode estar em determinadas circunstâncias? O que o adaptador dos textos pretende é, jogando com as palavras e os seus significados, dar um pequeno exemplo de como \"estar à venda\" é uma frase que nos atinge e agride... e faz sorrir! \"O cliente nunca tem razão\" procura virar do avesso uma frase feita, a de que \"o cliente tem sempre razão\" e que, na prática, encontramos, tantas vezes, quem a demonstre ao contrário, por absurdo; na relação entre quem procura uma coisa de que precisa e quem a tem para trocar ou vender (por dinheiro que é o que troca tudo), porque razão há-de ter sempre razão o cliente (o que procura) e não o vendedor (o que tem a coisa procurada)? Abrir uma loja não é ter que ser servil... embora também não tenha que ser o contrário. Há sempre razão e razões dos dois lados de uma relação."
+	},
+	{ 
+		"id" : "7", 
+		"title" : "O CON (S)CERTO", 
+		"author" : "(versão de Carlos Carvalheiro baseada em três textos de Karl Valentim \"O Aquário \", \" O Projetor Avariado \" e \"O Ensaio da Orquestra\".)", 
+		"description" : "Sinopse: O Con (s)certo é uma colagem de três textos de Karl Valentim: \"O Aquário \",  \" O Projetor Avariado \" e  \" Ensaio de Orquestra \" e deve o seu nome ao facto de se tratar de um conserto de um projetor e de um concerto de música."
+	},
+	{ 
+		"id" : "8", 
+		"title" : "Pegadas dos Dragões", 
+		"author" : "", 
+		"description" : "Na linha de Ursula le Guin, Tolkien ou JK Rowling, \"As Pegadas dos Dragões\" transporta-nos a uma realidade fantasiosa e fantástica onde os dragões convivem com os homens, a magia é quotidiana e o reis são aconselhados por homens sábios que dizem: \"não faças nada por ser correcto ou ser digno de louvor ou ser nobre de fazer; não faças nada por parecer que é bom fazê-lo; faz apenas o que tiveres de fazer e que não possas deixar fazer.\""
+	},
+	{ 
+		"id" : "9", 
+		"title" : "Meta a menina para dentro!", 
+		"author" : "", 
+		"description" : "A vinda de Manuel, pretendente de Isabel, é abalada pela presença de Gusmão, jovem pintor que mora em frente a casa de Isabel pela qual se apaixona. Contudo, Gusmão tenta também terminar um quadro há cerca de 3 anos, o qual não consegue pelo facto de se estar constantemente a apaixonar. Desta vez, e decidido a concluir a obra, muda-se para um sítio pacato. Mas o amor volta a bater à porta…"
+	},
+	{ 
+		"id" : "10", 
+		"title" : "Palhete de Ourém", 
+		"author" : "", 
+		"description" : "O Grupo de Teatro Apollo - Centro Cultural e Recreativo de Pêras Ruivas, vai estar presente no jantar medieval da Festa do Vinho Novo, no próximo dia 2 de Março, pelas 20h00, através da peça \"Vinho Palhete de Ourém\". O convite é da Câmara Municipal de Ourém. A peça apresenta o Sr. Infante que convida os seus amigos para um jantar onde é provado o vinho Palhete de Ourém. Os métodos da pisa das uvas brancas, a prensagem, o envasilhamento bem como alguns dos locais onde se conservam o vinho, tais como os lagares e as vasilhas são assuntos conversados com dois dos empregados da casa: Constantino e Luís. Os convidados chegam e dá-se início ao jantar, com o brinde ao Vinho Palhete de Ourém."
+	},
+	{ 
+		"id" : "11", 
+		"title" : "Monstros no Museu", 
+		"author" : "", 
+		"description" : "Sinopse: Em \"Monstros no Museu\" espera-se por nada e esse nada, é o que de facto existe. O resto, o tudo, são as palavras, as coisas e as pessoas para as quais (e das quais) elas falam. E essas são o que são. Estão lá e existem por si só. Servem para realçar o contrário. Servem para nos lembrar de que entre elas (e entre elas e as coisas) existe esse enorme e poderoso vazio, cheio de tudo e de nada, que desconhecemos e imaginamos, que antecipamos e receamos... entre elas (e entre elas e as coisas) existe esse enorme e poderoso vazio, cheio de tudo e de nada, que desconhecemos e imaginamos, que antecipamos e receamos e que, inútil e insistentemente, procuramos compreender. Regra geral temos o vício, a tendência a racionalizar tudo, de querer que esteja tudo direitinho, de querer esclarecer e perceber tudo. Nesta compilação de textos, no dito teatro absurdo pretende-se usufruir, apenas, sem racionalizar. Em nada disto existe o absurdo. Absurdo, se lhe podemos chamar, é a situação e o ambiente em que estas personagens se encontram. Porque nas histórias que são contadas, as pessoas, o público, identifica-se, lembra-se de coisas, a humanidade está lá toda. \"Pingue-pongue\", \"Limpa-chaminés\" e \"O Mergulho\""
+	}
+	]
+}

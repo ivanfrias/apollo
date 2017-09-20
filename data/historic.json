@@ -1,0 +1,261 @@
+{ "data": [
+	{ 
+		"id" : "0", 
+		"year" : "2006", 	
+		"acts" : [ 
+			{
+				"title" : "I Meia Maratona de Teatro",
+				"site" : "Torreão – Castelo de Ourém",
+				"date" : "8 e 9 de dezembro de 2006"   
+			},
+			{
+				"title" : "Meta a Menina para dentro!",
+				"site" : "Torreão – Castelo de Ourém",
+				"date" : "18 de novembro de 2006"
+			},
+			{
+				"title" : "O principezinho",
+				"site" : "Torreão – Castelo de Ourém",
+				"date" : "18 de novembro de 2006"
+			},
+			{
+				"title" : "Meta a menina para dentro ( estreia )",
+				"site" : "N/A",
+				"date" : "18 de novembro de 2006"
+			},
+			{
+				"title" : "Leandro, Rei de Helíria",
+				"site" : "Urqueira",
+				"date" : "Janeiro de 2006"
+			}
+		]
+	},
+	{ 
+		"id" : "1", 
+		"year" : "2007", 	
+		"acts" : [ 
+			{
+				"title" : "2º meia maratona de teatro",
+				"site" : "N/A",
+				"date" : "1 a 14 de dezembro 2007"   
+			},
+			{
+				"title" : "Barraquinha no ATL Mágico de Ourém",
+				"site" : "N/A",
+				"date" : "29 de junho de 2007"
+			},
+			{
+				"title" : "A Derrota do Kid Labaredas",
+				"site" : "Sabacheira",
+				"date" : "22 de junho de 2007"
+			},
+			{
+				"title" : "Na Terra dos Sonhos",
+				"site" : "Torreão – Castelo de Ourém",
+				"date" : "Todos os sábado de junho de 2007"
+			},
+			{
+				"title" : "Na Terra dos  Sonhos (estreia)",
+				"site" : "Cine-teatro de Ourém",
+				"date" : "19 de maio de 2007"
+			},
+			{
+				"title" : "Na Terra dos  Sonhos (estreia)",
+				"site" : "Cine-teatro de Ourém",
+				"date" : "18 de maio de 2007"
+			},
+			{
+				"title" : "As memórias de Lúcia (estreia)",
+				"site" : "Paulo VI em Fátima",
+				"date" : "9 de maio"
+			},
+			{
+				"title" : "Leandro, Rei de Helíria",
+				"site" : "Sandoeira – Festival de Sopas",
+				"date" : "15 de abril de 2007"
+			},
+			{
+				"title" : "Peddy Paper ATL Mágico",
+				"site" : "N/A",
+				"date" : "14 de abril de 2007"
+			},
+			{
+				"title" : "Comemoração dos 10 anos do Grupo (Apresentação espetáculo A Derrota do Kid Labaredas e Desfile de peças na Praça Mouzinho Albuquerque)",
+				"site" : "Mata Municipal",
+				"date" : "27 de março de 2007"
+			},
+			{
+				"title" : "Comemoração dos 25 anos da Orquestra Típica de Ourém",
+				"site" : "Cine-teatro de Ourém",
+				"date" : "25 de março de 2007"
+			},
+			{
+				"title" : "Espetáculo do vinho novo - Vinho Palhete de Ourém",
+				"site" : "Centro de Negócios em Ourém",
+				"date" : "5 de março de 2007"
+			},
+			{
+				"title" : "A Derrota do Kid Labaredas",
+				"site" : "Centro paroquial de Azóia",
+				"date" : "24 de fevereiro"
+			},
+			{
+				"title" : "Leandro, Rei de Heliria",
+				"site" : "Casa de Abrigo São José – Mira D'Aire",
+				"date" : "4 de fevereiro de 2007"
+			}
+		]
+	}, 
+	{ 
+		"id" : "2", 
+		"year" : "2008", 	
+		"acts" : [ 
+			{
+				"title" : "Halloween (2º ano)",
+				"site" : "Arte Caffe",
+				"date" : "30 Outubro 2008"   
+			},
+			{
+				"title" : "Leandro, Rei de Helíria",
+				"site" : "Torreão – Castelo de Ourém",
+				"date" : "27 de  outubro de 2008"
+			},
+			{
+				"title" : "Leandro, Rei de Helíria",
+				"site" : "Torreão – Castelo de Ourém",
+				"date" : "18 de  outubro de 2008"
+			},
+			{
+				"title" : "Leandro, Rei de Helíria",
+				"site" : "Torreão – Castelo de Ourém",
+				"date" : "11 de  outubro de 2008"
+			},
+			{
+				"title" : "Workshop sobre Jogo e Movimento",
+				"site" : "Vila Medieval de Ourém",
+				"date" : "3 de outubro de 2008"
+			},
+			{
+				"title" : "Con (s)certo",
+				"site" : "Cine-teatro de Ourém",
+				"date" : "3 de outubro de 2008"
+			},
+			{
+				"title" : "Sardinhada Apollo",
+				"site" : "CCRPR",
+				"date" : "9 de Agosto de 2008"
+			},
+			{
+				"title" : "A galinha, o quintal, o ovo e os vizinhos",
+				"site" : "Som da Tinta",
+				"date" : "19 de setembro de 2008"
+			},
+			{
+				"title" : "Na Terra dos Sonhos",
+				"site" : "Centro de Deficientes Profundos – Fátima",
+				"date" : "14 de setembro de 2008"
+			},
+			{
+				"title" : "As Pegadas dos Dragões",
+				"site" : "Pegadas dos Dinaussaurios - Bairro , Ourém",
+				"date" : "7, 14 e 28 de junho de 2008"
+			},
+			{
+				"title" : "Atribuição Menção Honrosa Ao Grupo de Teatro Apollo",
+				"site" : "Festas da Cidade",
+				"date" : "20 de julho de 2008"
+			},
+			{
+				"title" : "Espetáculo do vinho novo - Vinho Palhete de Ourém",
+				"site" : "Centro de Negócios em Ourém",
+				"date" : "5 de março de 2007"
+			},
+			{
+				"title" : "As memórias de Lúcia",
+				"site" : "Centro Pastoral Paulo VI",
+				"date" : "10 de junho de 2008"
+			},
+			{
+				"title" : "Na Terra dos Sonhos",
+				"site" : "Cem Soldos, Tomar",
+				"date" : "1 de junho de 2008"
+			},
+			{
+				"title" : "O cliente nunca tem razão/vende-se coração",
+				"site" : "Orfeão Velho, Leiria",
+				"date" : "30 de maio"
+			},
+			{
+				"title" : " Conc(s)certo (estreia)",
+				"site" : "Cenourém - Produção: Grupo de Teatro Apollo- Parceria com Sociedade Filarmónica Ouriense",
+				"date" : "23 de Maio de 2008"
+			},
+			{
+				"title" : "Feira Medieval de Ourém",
+				"site" : "N/A",
+				"date" : "18 de maio de 2008 "
+			},
+			{
+				"title" : "Meta a menina para dentro!",
+				"site" : "N/A",
+				"date" : "19 de abril de 2008"
+			},
+			{
+				"title" : "Meta a menina para dentro!",
+				"site" : "Torreão – Castelo de Ourém",
+				"date" : "5 de abril de 2008 "
+			},
+			{
+				"title" : "O Cliente nunca tem razão e vende-se coração",
+				"site" : "Arte Caffé",
+				"date" : "14 de Março de 2008 "
+			},
+			{
+				"title" : "Na Terra dos Sonhos",
+				"site" : "Santa Eufémia, Leiria",
+				"date" : "29 de março de 2008"
+			},
+			{
+				"title" : "Leandro, Rei de Helíria",
+				"site" : "Torreão – Castelo de Ourém",
+				"date" : "19 de março de 2008"
+			},
+			{
+				"title" : "Leandro, Rei de Helíria",
+				"site" : "Torreão – Castelo de Ourém",
+				"date" : "22 de março de 2008"
+			},
+			{
+				"title" : "Leandro, Rei de Helíria",
+				"site" : "Cine-teatro de Ourém",
+				"date" : "7 de março de 2008"
+			},
+			{
+				"title" : "Animação de jantar de pessoas nascidas em 1969",
+				"site" : "Fátima",
+				"date" : "1 de março de 2008"
+			},
+			{
+				"title" : "Leandro, Rei de Helíria",
+				"site" : "Torreão – Castelo de Ourém",
+				"date" : "23 de fevereiro de 2008"
+			},
+			{
+				"title" : "O cliente nunca tem razão e Vende-se o Coração",
+				"site" : "Centro de Apoio a Idosos, Ourém",
+				"date" : "17 de fevereiro de 2008"
+			},
+			{
+				"title" : "Meta a menina para dentro!",
+				"site" : "Torreão – Castelo de Ourém",
+				"date" : "8 de fevereiro de 2008"
+			},
+			{
+				"title" : "Halloween (2º ano) ",
+				"site" : "ArteCaffé – ourém",
+				"date" : "30 de outubro de 2008"
+			}
+		]
+	}
+]
+}
