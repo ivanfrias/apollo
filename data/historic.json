@@ -524,6 +524,477 @@
 				"date" :"4 e 5 de dezembro de 2010"
 			}
 		]
+	},
+	{
+		"id" : "5",
+		"year" : "2011",
+		"acts" : [
+			{
+				"title":"Gala 10 prás 10",
+				"site" :"Grupo Teatro galardoado com 3 prémios no VI Festival de Teatro de Proença-a-Nova – Categoria de melhor ator (Paulo Santos), melhor atriz (Tatiana Pedro) e melhor espetáculo de 2011 com a peça Na Terra dos Sonhos",
+				"date" :"10 de dezembro de 2011"
+			},
+			{
+				"title":"II Noite da Diferença",
+				"site" :"Cineteatro de Ourém",
+				"date" :"7 Dezembro de 2011"
+			},
+			{
+				"title":"Na Terra dos Sonhos",
+				"site" :"Montalvo, Concelho de Constância",
+				"date" :"3 de dezembro de 2011"
+			},
+			{
+				"title":"Na Terra dos Sonhos",
+				"site" :"Torreão Este – Castelo de Ourém",
+				"date" :"27 de novembro de 2011"
+			},
+			{
+				"title":"O cliente nunca tem razão/vende-se coração",
+				"site" :"Convite comemorativo de um grupo de pessoas nascidas em 1964. Hotel Lux, Fátima",
+				"date" :"19 de novembro de 2011"
+			},
+			{
+				"title":"O Gato",
+				"site" :"VI Festival de Proença-a-Nova.",
+				"date" :"12 Novembro de 2011"
+			},
+			{
+				"title":"O Gato",
+				"site" :"Festival de Teatro de Ansião ",
+				"date" :"8 de Outubro  de 2011"
+			},
+			{
+				"title":"Na Terra dos Sonhos",
+				"site" :"Vale da Perra, Atouguia.",
+				"date" :"16 de setembro de 2011"
+			},
+			{
+				"title":"O cliente nunca tem razão/Vende-se coração",
+				"site" :"Taberna do Castelo de Ourém",
+				"date" :"20 de agosto de 2011"
+			},
+			{
+				"title":"Na Terra dos Sonhos",
+				"site" :"Arte Caffé, Ourém",
+				"date" :"7 de agosto de 2011"
+			},
+			{
+				"title":"Elogio ao Amor",
+				"site" :"Cine-Teatro de Ourém",
+				"date" :"15 de julho de 2011"
+			},
+			{
+				"title":"Que Farei com este livro? de José Saramago",
+				"site" :"Torreão do Casetlo de Ourém",
+				"date" :"2 de julho de 2011"
+			},
+			{
+				"title":"Que Farei com este livro? de José Saramago",
+				"site" :"Torreão do Castelo de Ourém",
+				"date" :"10 de junho de 2011"
+			},
+			{
+				"title":"Que Farei com este livro? de José Saramago",
+				"site" :"Torreão do Castelo de Ourém",
+				"date" :"4 de junho de 2011"
+			},
+			{
+				"title":"O Gato",
+				"site" :"Torreão – Castelo de Ourém",
+				"date" :"30 de abril de 2011"
+			},
+			{
+				"title":"O Gato",
+				"site" :"Torreão – Castelo de Ourém",
+				"date" :"16 de abril de 2011"
+			},
+			{
+				"title":"Na Terra dos Sonhos",
+				"site" :"Festival de Teatro do Grupo Olimpo - Ansião",
+				"date" :"26 de março de 2011"
+			},
+			{
+				"title":"Na Terra dos Sonhos",
+				"site" :"Castelo de Leiria. A convite dos Serviços de Documentação do Instituto Politécnico de Leiria, no âmbito da Semana de Leitura.",
+				"date" :"19 de março de 2011"
+			},
+			{
+				"title":"5ª Meia Maratona de Teatro",
+				"site" :"-",
+				"date" :"11, 12 e 13 de março de 2011"
+			},
+			{
+				"title":"Apollo na Rua",
+				"site" :"Ourém",
+				"date" :"19 de fevereiro de 2011"
+			},
+			{
+				"title":"O Gato",
+				"site" :"Cineteatro de Ourém",
+				"date" :"21 de janeiro de 2011"
+			},
+			{
+				"title":"Jantar de Reis",
+				"site" :"8 de janeiro de 2011",
+				"date" :"Gala 10 prás 10"
+			}
+		]
+	},
+	{
+		"id" : "6",
+		"year" : "2012",
+		"acts" : [
+			{
+				"title":"Entrega de prémios do VII Festival de Teatro do Concelho de Proença a Nova",
+				"site" :"Proença a Nova",
+				"date" :"8 de dezembro de 2012 – Melhor iluminação: Nuno Santos; Melhor Actor – Paulo Santos (2 ano consecutivo)"
+			},
+			{
+				"title":"Jantar de Idiotas",
+				"site" :"VII Festival de Teatro do Concelho de Proença a Nova",
+				"date" :"10 de novembro de 2012"
+			},
+			{
+				"title":"Jantar de Idiotas",
+				"site" :"XVII Festival Acaso – Teatro Miguel Franco, Leiria",
+				"date" :"25 de outubro de 2012"
+			},
+			{
+				"title":"Jantar de Idiotas",
+				"site" :"Cineteatro de Ourém",
+				"date" :"21 de outubro de 2012"
+			},
+			{
+				"title":"Jantar de Idiotas",
+				"site" :"Grupo Cultural Semente – Eixo, Aveiro",
+				"date" :"6 de outubro de 2012"
+			},
+			{
+				"title":"Jantar de Idiotas",
+				"site" :"S. Silvestre, Tomar, Promoção 2 EM 1! (Apollo e Ultimacto)",
+				"date" :"29 de setembro de 2012"
+			},
+			{
+				"title":"Pic Nic",
+				"site" :"-",
+				"date" :"26 de agosto de 2012 "
+			},
+			{
+				"title":"Na Terra dos Sonhos",
+				"site" :"Piscinas municipais de Ourém",
+				"date" :"25 de agosto de 2012"
+			},
+			{
+				"title":"Na Terra dos Sonhos",
+				"site" :"Praça Mouzinho Albuquerque – No âmbito das Festas da Cidade de Ourém.",
+				"date" :"21 de junho de 2012"
+			},
+			{
+				"title":"Jantar de Idiotas",
+				"site" :"Torreão do Castelo de Ourém",
+				"date" :"16 de junho de 2012"
+			},
+			{
+				"title":"Jantar de Idiotas",
+				"site" :"XVI Mostra de Teatro de Cem Soldos, Tomar",
+				"date" :"26 de maio de 2012"
+			},
+			{
+				"title":"A Feira Quinhentista 'O Dote da Princesa', figuração do Hospital da Gafaria, povo e nobreza.",
+				"site" :"Torres Novas",
+				"date" :"3 de maio de 2012"
+			},
+			{
+				"title":"Na Terra dos Sonhos",
+				"site" :"Alvarim, Tondela",
+				"date" :"28 de abril de 2012"
+			},
+			{
+				"title":"Animação 'O piquenique' no Desfile de Moda Wild Heart",
+				"site" :"27 de abril de 2012",
+				"date" :"ArteCaffé – Ourém"
+			},
+			{
+				"title":"6ª Meia Maratona de Teatro",
+				"site" :"-",
+				"date" :"13, 14 e 15 de abril de 2012"
+			},
+			{
+				"title":"Na Terra dos Sonhos",
+				"site" :"Rebolaria - Batalha",
+				"date" :"30 março de 2012"
+			},
+			{
+				"title":"Apollo na Rua",
+				"site" :"Ourém – No âmbito da comemoração do Dia Mundial do Teatro",
+				"date" :"17 de março de 2012"
+			},
+			{
+				"title":"Jantar de Idiotas (estreia)",
+				"site" :"Cenourém - Ourém",
+				"date" :"2 de março de 2012"
+			},
+			{
+				"title":"O cliente nunca tem razão/vende-se coração",
+				"site" :"Grande Gala da Apaaf e amigos, Minde",
+				"date" :"25 de fevereiro de 2012"
+			},
+			{
+				"title":"Jantar de Reis",
+				"site" :"Taberna da Ti Emília, Ourém",
+				"date" :"7 de janeiro de 2012"
+			}
+		]
+	},
+	{
+		"id" : "7",
+		"year" : "2013",
+		"acts" : [
+			{
+				"title":"Halloween 2013",
+				"site" :"Arte Caffé",
+				"date" :"02 de novembro de 2013"
+			},
+			{
+				"title":"Queres ser ministro?",
+				"site" :"Cine-teatro de Ourém ",
+				"date" :"6 de outubro de 2013"
+			},
+			{
+				"title":"Queres ser ministro?",
+				"site" :"Praça Mouzinho Albuquerque - Integrado nas Jornadas Europeias do Património",
+				"date" :"21 de setembro de 2013"
+			},
+			{
+				"title":"Pic Nic",
+				"site" :"Parque Merendas Casal dos Bernardos ",
+				"date" :"18 de agosto 2013"
+			},
+			{
+				"title":"-",
+				"site" :"âmbito das comemorações do 496º aniversário da Junta de Freguesia de Seiça.", 
+				"date" :"15 de agosto de 2013"
+			},
+			{
+				"title":"O cliente tem sempre razão/Vende-se coração",
+				"site" :"Galeria Municipal de Ourém – No âmbito do Projeto 'Histórias Decantadas'",
+				"date" :"29 de junho de 2013"
+			},
+			{
+				"title":"7ª Meia Maratona de Teatro",
+				"site" :"-",
+				"date" :"14, 15 e 16 de junho de 2013"
+			},
+			{
+				"title":"Que Farei com este livro? de José Saramago",
+				"site" :"Castelo de Ourém",
+				"date" :"2 de junho de 2013"
+			},
+			{
+				"title":"Que Farei com este livro? de José Saramago",
+				"site" :"Castelo de Ourém",
+				"date" :"19 de maio de 2013"
+			},
+			{
+				"title":"Que Farei com este livro? de José Saramago",
+				"site" :"Castelo de Ourém",
+				"date" :"5 de maio de 2013"
+			},
+			{
+				"title":"Participação do Apollo nas Comemorações do 25 de abril",
+				"site" :"24 de abril de 2013",
+				"date" :"Ourém"
+			},
+			{
+				"title":"Jantar de Idiotas",
+				"site" :"Festival Teatro em Festa, Minde",
+				"date" :"13 de abril de 2013"
+			},
+			{
+				"title":"Queres ser ministro ? de Helder Costa",
+				"site" :"-",
+				"date" :"22 de março de 2013"
+			},
+			{
+				"title":"Jantar de Reis",
+				"site" :"Taberna da Ti Emília (Ourém)",
+				"date" :"5 de janeiro de 2013"
+			}
+		]
+	},
+	{
+		"id" : "8",
+		"year" : "2014",
+		"acts" : [
+			{
+				"title":"Andersen FM",
+				"site" :"Cine-teatro de Ourém",
+				"date" :"6 de dezembro de 2014"
+			},
+			{
+				"title":"O sexo dos gansos",
+				"site" :"1º Festival da ARPO - Ourém",
+				"date" :"11 de outubro de 2014 "
+			},
+			{
+				"title":"'A culpa é do tubo-ladrão'",
+				"site" :"Largo do Chiado, Lisboa - Dia Nacional da água e a convite da Quercus, ANCN",
+				"date" :"1 de outubro 2014"
+			},
+			{
+				"title":"Na Terra dos Sonhos",
+				"site" :"No âmbito do festival de setembro, música e outras artes",
+				"date" :"25 de setembro de 2014"
+			},
+			{
+				"title":"'O pic nic da nossa terra'",
+				"site" :"Festa em honra da Nossa Senhora das Misericórdias, Ourém",
+				"date" :"3 de agosto de 2014"
+			},
+			{
+				"title":"Na Terra dos Sonhos",
+				"site" :"40º aniversário do Centro Cultural e Recreativo de Pêras Ruivas ",
+				"date" :"1 de agosto de 2014"
+			},
+			{
+				"title":"Apresentação do documentário Contra Cena",
+				"site" :"Marco Maurício apresenta no Cinantrop, o documentário Contra Cena, resultado da sua presença com o Grupo Teatro Apollo durante cerca de ano e meio.",
+				"date" :"20 de julho de 2014"
+			},
+			{
+				"title":"Na Terra dos Sonhos",
+				"site" :"Praça Mouzinho Albuquerque",
+				"date" :"18 de junho de 2014"
+			},
+			{
+				"title":"8ª Meia Maratona de Teatro",
+				"site" :"-",
+				"date" :"13, 14 e 15 de junho de 2014"
+			},
+			{
+				"title":"O sexo dos gansos",
+				"site" :"XVIII Mostra de Teatro, Cem Soldos, Tomar",
+				"date" :"24 de maio de 2014"
+			},
+			{
+				"title":"O sexo dos gansos",
+				"site" :"No âmbito da 16ª Festa - Festival de Teatro Amador de Alvarim!",
+				"date" :"3 de maio de 2014"
+			},
+			{
+				"title":"Queres ser ministro?",
+				"site" :"Benedita",
+				"date" :"6 de abril de 2014"
+			},
+			{
+				"title":"O sexo dos gansos",
+				"site" :"Cenourém, Ourém",
+				"date" :"11 de abril de 2014"
+			},
+			{
+				"title":"O pic nic da nossa terra",
+				"site" :"Comemoração do Dia Mundial do Teatro ",
+				"date" :"29 de março de 2014"
+			},
+			{
+				"title":"Queres ser ministro?",
+				"site" :"Ovar – Grupo de Teatro Contacto",
+				"date" :"15 de fevereiro de 2014"
+			},
+			{
+				"title":"Jantar de Reis",
+				"site" :"(Taberna da Ti Emília) Ourém",
+				"date" :"4 de janeiro de 2014 "
+			},
+			{
+				"title":"Queres ser ministro?",
+				"site" :"No âmbito do Petra Ficta - IX Festival de Teatro do Grupo de Teatro Getepepe Teatro Perafita",
+				"date" :"13 de novembro de 2013"
+			}
+		]
+	},
+	{
+		"id" : "9",
+		"year" : "2015",
+		"acts" : [
+			{
+				"title": "Diamantes, Futebol e Peixe Frito (estreia)",
+				"site" : "Festival Cenourém",
+				"date" : "27 de março de 2015"
+			}
+		]
+	},
+	{
+		"id" : "10",
+		"year" : "2016",
+		"acts" : [
+			{
+				"title":"Animação de Halloween",
+				"site" :"Azenha Bar – Lagoa do Furadouro",
+				"date" :"31 de outubro de 2016"
+			},
+			{
+				"title":"D. Afonso, Conde de Ourém e Príncipe de Portuga",
+				"site" :"Vila Medieval de Ourém (Grupo Teatro Apollo e Nariz – Teatro de Grupo, Leiria)",
+				"date" :"25 de setembro de 2016"
+			},
+			{
+				"title":"Ida à Graciosa",
+				"site" :"-",
+				"date" :"14 a 17 de outubro de 2016"
+			},
+			{
+				"title":"10ª Meia Maratona de Teatro",
+				"site" :"Peras Ruivas e Vila Medieval de Ourém",
+				"date" :"8, 9 e 10 de julho de 2016"
+			},
+			{
+				"title":"Passarolos & Companhia (estreia)",
+				"site" :"Festival Cenourém",
+				"date" :"27 de maio de 2016"
+			},
+			{
+				"title":"Domingo Gordo de Carnaval",
+				"site" :"Peras Ruivas",
+				"date" :"7 de fevereiro de 2016"
+			},
+			{
+				"title":"Jantar de Idiotas",
+				"site" :"No âmbito de “Dar Teatro 2016” – Grupo Contacto – Ovar",
+				"date" :"16 de janeiro 2016"
+			},
+			{
+				"title":"Jantar de Idiotas",
+				"site" :"2º Festival da ARPO ",
+				"date" :"17 de outubro de 2016"
+			},
+			{
+				"title":"9ª Meia Maratona de Teatro",
+				"site" :"Peras Ruivas e Vila Medieval de Ourém",
+				"date" :"10, 11 e 12 de julho de 2016"
+			},
+			{
+				"title":"CatFest onde apresentou 2 das 3 histórias que compõem os Monstros",
+				"site" :"-",
+				"date" :"10 de junho de 2016"
+			},
+			{
+				"title":"Os Monstros",
+				"site" :"No âmbito do VII Ciclo Cultural de Aboboreiras",
+				"date" :"29 de abril de 2016"
+			},
+			{
+				"title":"Monstros no Museu",
+				"site" :"Museu Municipal de Ourém - Comemoração do Dia Mundial do Teatro",
+				"date" :"26 de março de 2016"
+			},
+			{
+				"title":"Andersen FM",
+				"site" :"Dia Aberto da ESTG, Leiria",
+				"date" :"19 de março de 2016"
+			}
+		]
 	}
 ]
 }
