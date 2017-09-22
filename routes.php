@@ -35,9 +35,9 @@
 					   'act' 		=> ['index', 'show', 'error'], 
 				  	   'contacts' 	=> ['index', 'error', 'error'],
 				   	   'historic' 	=> ['index', 'show', 'error'],
-				   	   'marathon'	=> ['index', 'show', 'error'],
+				   	   'marathon'	=> ['index', 'error'],
 				   	   'shows'		=> ['index', 'error']);
-
+					   
   // check that the requested controller and action are both allowed
   // if someone tries to access something else he will be redirected to the error action of the pages controller
   if (array_key_exists($controller, $controllers)) {

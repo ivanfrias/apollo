@@ -14,12 +14,13 @@
 		$list = [];
 		$marathons_string = file_get_contents("data/marathons.json");
 		$marathons = json_decode($marathons_string, true)['data'];
-
+		
 		foreach($marathons as $marathon) {
-			$list[] = new Marathon($marathon['id'], $marathon['title'], $marathon['dates']);
+			array_push($list, new Marathon($marathon['id'], $marathon['title'], $marathon['dates'])); 
 		}
 
 		return $list;
+		
     }
 
     public static function find($id) {

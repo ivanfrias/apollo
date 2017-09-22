@@ -89,27 +89,6 @@
 							  <a href="?controller=marathon&action=index" class="w3-bar-item w3-button">Meia Maratona</a>
 							  <a href="?controller=historic&action=index" class="w3-bar-item w3-button">Historial</a>
 							  <a href="?controller=act&action=index" class="w3-bar-item w3-button">Repertorio</a>
-							  
-							  <!--
-							  <div class="w3-dropdown-hover">
-								  <button class="w3-button">Historial</button>
-								  <div class="w3-dropdown-content w3-bar-block w3-card-4">
-									  <a href="" class="w3-bar-item w3-button">2017</a>
-									  <a href="historial_2016.php" class="w3-bar-item w3-button">2016</a>
-									  <a href="historial_2015.php" class="w3-bar-item w3-button">2015</a>
-									  <a href="historial_2014.php" class="w3-bar-item w3-button">2014</a>
-									  <a href="historial_2013.php" class="w3-bar-item w3-button">2013</a>
-									  <a href="historial_2012.php" class="w3-bar-item w3-button">2012</a>
-									  <a href="historial_2011.php" class="w3-bar-item w3-button">2011</a>
-									  <a href="historial_2010.php" class="w3-bar-item w3-button">2010</a>
-									  <a href="historial_2009.php" class="w3-bar-item w3-button">2009</a>
-									  <a href="historial_2008.php" class="w3-bar-item w3-button">2008</a>
-									  <a href="historial_2007.php" class="w3-bar-item w3-button">2007</a>
-									  <a href="historial_2006.php" class="w3-bar-item w3-button">2006</a> 
-								  </div>
-							  </div>
-								  -->
-							  
 							  <a href="?controller=contacts&action=index" class="w3-bar-item w3-button">Contactos</a>
 						  </div>
 
