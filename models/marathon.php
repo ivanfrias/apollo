@@ -24,6 +24,16 @@
     }
 
     public static function find($id) {
+	  	$marathons_string = file_get_contents("data/marathons.json");
+		$marathons = json_decode($marathons_string, true)['data'];
+		
+		$m = array_filter($marathons, function($marathon) use ($id) {
+		  return $marathon['id'] == $id;
+		});
+		
+		$first = $m[array_keys($m)[0]];
+		return new Marathon($first['id'], $first['title'], $first['dates']);
+		
       //$db = Db::getInstance();
       // we make sure $id is an integer
       //$id = intval($id);

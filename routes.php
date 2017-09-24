@@ -35,7 +35,7 @@
 					   'act' 		=> ['index', 'show', 'error'], 
 				  	   'contacts' 	=> ['index', 'error', 'error'],
 				   	   'historic' 	=> ['index', 'show', 'error'],
-				   	   'marathon'	=> ['index', 'error'],
+				   	   'marathon'	=> ['index', 'show', 'error'],
 				   	   'shows'		=> ['index', 'error']);
 					   
   // check that the requested controller and action are both allowed
