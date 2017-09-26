@@ -15,7 +15,7 @@ class Act {
 	public static function all() {
 		$list = [];
 		$acts_string = file_get_contents("data/acts.json");
-		$acts = json_decode($string, true)['data'];
+		$acts = json_decode($acts_string, true)['data'];
 
 		foreach($acts as $act) {
 			$list[] = new Act($act['id'], $act['title'], $act['author'], $act['description']);
@@ -28,7 +28,7 @@ class Act {
 		$acts = Act::all();
 		
 		foreach($acts as $act) {
-			if ( $act['id'] == $id ) {
+			if ( $act->id == $id ) {
 				return $act;
 			}
 		}
